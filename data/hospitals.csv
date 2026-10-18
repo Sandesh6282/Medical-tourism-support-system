@@ -1,0 +1,17 @@
+hospital_id,hospital_name,country,city_or_region,hospital_name_data_status,location_data_status,notes
+IN01,"Apollo Hospitals, Chennai",India,Chennai,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+IN02,Fortis Memorial Research Institute,India,Gurugram,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+IN03,Medanta – The Medicity,India,Gurugram,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+IN04,"Manipal Hospitals, Bengaluru",India,Bengaluru,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TR01,Acıbadem Maslak Hospital,Türkiye,Istanbul,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TR02,Memorial Şişli Hospital,Türkiye,Istanbul,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TR03,Anadolu Medical Center,Türkiye,Gebze,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TR04,Medical Park Göztepe Hospital Complex,Türkiye,Istanbul,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TH01,Bumrungrad International Hospital,Thailand,Bangkok,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TH02,Bangkok Hospital,Thailand,Bangkok,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TH03,Samitivej Sukhumvit Hospital,Thailand,Bangkok,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+TH04,Phyathai 2 International Hospital,Thailand,Bangkok,REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+US01,Mayo Clinic,USA,"Rochester, Minnesota",REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+US02,Cleveland Clinic,USA,"Cleveland, Ohio",REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+US03,Hospital for Special Surgery,USA,"New York, New York",REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
+US04,Johns Hopkins Hospital,USA,"Baltimore, Maryland",REAL_NAME_NOT_CAPABILITY_VERIFICATION,FROM_EXISTING_PROJECT_DATASET,Hospital identity/location should be independently checked before real-world use.
